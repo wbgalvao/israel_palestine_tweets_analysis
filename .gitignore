@@ -1,0 +1,10 @@
+.DS_Store
+.venv
+tweets
+bert-base-uncased
+
+images/*
+!images/python3.10 badge.svg
+!images/pro_israel_tweet_example.png
+!images/pro_palestine_tweet_example.png
+!images/python3.10 badge.svg
